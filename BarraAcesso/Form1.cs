@@ -58,7 +58,6 @@ namespace BarraAcesso
             //1
             //2
             //3
-            //4
             Action("skype", Actions.Normal);
         }
 
