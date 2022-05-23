@@ -14,6 +14,8 @@ namespace BarraAcesso
 {
     public partial class Form1 : Form
     {
+        //Versão Beta
+        
         //Enumera os tipos para usar com o switch (o 1,2,3 são da API do user32)
         public enum Actions { Normal = 1, Minimize = 2, Maximize = 3 };
 
