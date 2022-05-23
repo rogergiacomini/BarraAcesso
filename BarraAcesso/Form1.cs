@@ -40,6 +40,7 @@ namespace BarraAcesso
         //Dispara a ação desejada, só tem 3 opções no exemplo
         public static void Action(string name, Actions act)
         {
+            //
             IntPtr hWnd = FindWindow(name);
 
             if (!hWnd.Equals(IntPtr.Zero))
