@@ -55,6 +55,9 @@ namespace BarraAcesso
         private void btnSkype_Click(object sender, EventArgs e)
         {
             //Action("skype", Actions.Normal);
+            //1
+            //2
+            //3
             Action("skype", Actions.Normal);
         }
 
